@@ -1,0 +1,50 @@
+# Python Indexing Lab Exercises
+
+# Use the following string for exercises 1-5:
+devops_tools = "GitLabJenkinsDockerKubernetesAnsibleTerraform"
+
+# 1. Print the first character of the string.
+# Your code here:
+
+# 2. Print the last character of the string.
+# Your code here:
+
+# 3. Print the substring "Jenkins" using positive indexing.
+# Your code here:
+
+# 4. Print the substring "Kubernetes" using negative indexing.
+# Your code here:
+
+# 5. Print every third character of the string.
+# Your code here:
+
+# Use the following list for exercises 6-10:
+cloud_providers = ["AWS", "Azure", "GCP", "DigitalOcean", "IBM Cloud"]
+
+# 6. Print the second item in the list.
+# Your code here:
+
+# 7. Print the last two items in the list using negative indexing.
+# Your code here:
+
+# 8. Replace "GCP" with "Google Cloud Platform" in the list.
+# Your code here:
+
+# 9. Add "Alibaba Cloud" to the end of the list.
+# Your code here:
+
+# 10. Remove "DigitalOcean" from the list and print the updated list.
+# Your code here:
+
+# Bonus: Nested Indexing
+nested_services = [
+    ["EC2", "S3", "Lambda"],
+    ["VMs", "Blob Storage", "Functions"],
+    ["Compute Engine", "Cloud Storage", "Cloud Functions"]
+]
+
+# 11. Print "S3" from the nested list.
+# Your code here:
+
+# 12. Replace "Functions" in the Azure list with "Azure Functions".
+# Your code here:
