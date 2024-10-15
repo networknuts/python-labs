@@ -1,0 +1,65 @@
+# Python Dictionary Lab Exercises for DevOps
+
+# Use this dictionary for exercises 1-5
+cloud_services = {
+    "AWS": ["EC2", "S3", "Lambda", "CloudFront"],
+    "Azure": ["Virtual Machines", "Blob Storage", "Functions", "CDN"],
+    "GCP": ["Compute Engine", "Cloud Storage", "Cloud Functions", "Cloud CDN"]
+}
+
+# 1. Print all the keys (cloud providers) in the cloud_services dictionary.
+# Your code here:
+
+
+# 2. Add a new cloud provider "DigitalOcean" with services ["Droplets", "Spaces", "App Platform"].
+# Your code here:
+
+
+# 3. Print the services offered by Azure.
+# Your code here:
+
+
+# 4. Check if "Kubernetes" is offered by AWS. Print "Yes" if it is, "No" if it's not.
+# Your code here:
+
+
+# 5. Update the GCP services to include "Kubernetes Engine". Print the updated GCP services.
+# Your code here:
+
+
+# Use this dictionary for exercises 6-10
+server_status = {
+    "web_server": {
+        "status": "running",
+        "ip": "192.168.1.10",
+        "resources": {
+            "cpu": "25%",
+            "memory": "40%",
+            "disk": "30%"
+        }
+    },
+    "database_server": {
+        "status": "stopped",
+        "ip": "192.168.1.11",
+        "resources": {
+            "cpu": "0%",
+            "memory": "0%",
+            "disk": "45%"
+        }
+    }
+}
+
+# 6. Print the status of the web_server.
+# Your code here:
+
+
+# 7. Update the status of the database_server to "running" and set its CPU usage to "10%".
+# Your code here:
+
+
+# 8. Add a new server called "cache_server" with status "running", IP "192.168.1.12", and all resources at "0%".
+# Your code here:
+
+
+# 9. Print the total disk usage across all servers (assuming the percentage is out of 100 for each server).
+# Your code here:
