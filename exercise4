@@ -1,0 +1,5 @@
+1. Read /etc/hosts file of your system in a human readable format
+
+2. Create a file /tmp/data.txt which contains your full name
+
+3. Append /tmp/data.txt with the string "python for devops"
