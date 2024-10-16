@@ -1,0 +1,9 @@
+1. Create a python function to take two numbers, add them together and check if the output is odd or even
+
+2. Create a python function to provide the total, available, and free memory of the system
+
+3. Create a python function to convert the first and third letter of any string into uppercase
+
+4. Create a python function to create an SSH connection against one VM
+
+5. Create a python function to create an SSH connection against multiple VMs
